@@ -1,10 +1,10 @@
 <?php
 
 // database connection info
-const DB_HOST = 'localhost';
-const DB_USER = 'root';
-const DB_PASS = '';
-const DB_NAME = 'softbyte';
+const DB_HOST = ''; // Database Host
+const DB_USER = 'root'; // Database User
+const DB_PASS = ''; // Database Password
+const DB_NAME = 'softbyte'; // Database name
 
 // Site url 
-const SITE_URL = 'http://localhost/softbyt/account/';
+const SITE_URL = ''; // Site protocol or url
